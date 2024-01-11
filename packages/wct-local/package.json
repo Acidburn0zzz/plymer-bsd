@@ -1,6 +1,6 @@
 {
   "name": "wct-local",
-  "version": "2.1.5",
+  "version": "2.1.7",
   "description": "WCT plugin that enables support for local browsers via Selenium",
   "keywords": [
     "wct",
@@ -56,7 +56,7 @@
     "chalk": "^2.3.0",
     "cleankill": "^2.0.0",
     "freeport": "^1.0.4",
-    "launchpad": "^0.7.0",
+    "launchpad": "git+https://github.com/web-padawan/launchpad.git#fdd994d089572e2c2152d70cc74abf497d08d5b7",
     "selenium-standalone": "^6.7.0",
     "which": "^1.0.8"
   },
